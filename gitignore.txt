@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+build/
+dist/
+*.spec
+sovereign_doc_log.csv
